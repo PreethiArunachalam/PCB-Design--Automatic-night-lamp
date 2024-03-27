@@ -51,9 +51,3 @@ During the daytime when there is a light, the LDR has very low resistance and al
 # Result
 Thus the automatic night lamp circuit was designed using proteus software.
 
-
-
-
-# Result
-Thus the automatic night lamp circuit was designed using proteus software.
-
